@@ -1,4 +1,8 @@
-### Hi, I'm Chris
+### Hi, I'm Chris!
+
+I'm a researcher and educator interested in sociotechnical systems, machine learning for engineering design, and human-AI teaming. 
+
+I'm currently an associate professor of mechanical engineering at Carnegie Mellon University.
 
 <!--
 **cmccomb/cmccomb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
