@@ -1,20 +1,9 @@
-### Hi, I'm Chris!
+### Hi, I'm Chris! (he/him)
 
-I'm a researcher and educator interested in sociotechnical systems, machine learning for engineering design, and human-AI teaming. 
+I'm currently an Associate Professor of in the Department of Mechanical Engineering at Carnegie Mellon University. Here are a few of the things I'm excited about:
+- 🤖 machine learning for engineering design
+- 🗣 sociotechnical systems
+- 🧑‍💻 human-AI collaboration
+- 🦀 Learning Rust
 
-I'm currently an associate professor of mechanical engineering at Carnegie Mellon University.
-
-<!--
-**cmccomb/cmccomb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Let's talk! [Send me an email](mailto:ccm@cmu.edu) to get in touch. 
