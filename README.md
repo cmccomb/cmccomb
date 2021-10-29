@@ -6,4 +6,6 @@ I'm currently an Associate Professor of in the Department of Mechanical Engineer
 - 🧑‍💻 human-AI collaboration
 - 🦀 Learning Rust
 
+{% assign x = 1 %}
+
 Let's talk! [Send me an email](mailto:ccm@cmu.edu) to get in touch. 
