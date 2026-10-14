@@ -13,7 +13,7 @@ I'm currently an Associate Professor in the Department of Mechanical Engineering
 - [break_axis](https://github.com/cmccomb/break_axis): add a visual axis-break mark to a plot (without changing its data or scale).
 - [Mark2DOT](https://github.com/cmccomb/Mark2DOT): export a Markov transition matrix as Graphviz DOT or a rendered diagram.
 - [PipeWrench](https://github.com/cmccomb/PipeWrench): model steady, laminar flow through a network of pipes.
-- [matlab-use](https://github.com/cmccomb/matlab-use): load a reviewed MATLAB dependency from a checksum-pinned file or URL.
+- [matlab-use](https://github.com/cmccomb/matlab-use): load MATLAB functions from a file or URL, with optional checksum pinning.
 
 The first three tools also have MATLAB File Exchange listings. The repositories include usage notes and MATLAB tests.
 
